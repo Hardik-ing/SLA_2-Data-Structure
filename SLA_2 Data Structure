@@ -1,0 +1,7 @@
+I started my learning process by selecting **Queue** as my topic because it is an important linear data structure used in Data Structures and Algorithms. First, I studied the basic concept and structure of a queue and understood how elements are inserted and removed based on the **FIFO (First In, First Out)** principle.
+
+I mainly focused on the basic operations of a queue, including **Enqueue, Dequeue, Peek/Front, and isEmpty()**. I learned that Enqueue is used to add an element at the rear, while Dequeue removes an element from the front. I also studied the working and purpose of each operation.
+
+To improve my understanding, I studied different types of queues, including **Linear Queue, Circular Queue, Priority Queue, and Deque**. I understood how each type works and the situations where it can be useful. I also explored real-world applications such as **printer job scheduling, network packet handling, hospital emergency systems, and CPU/process scheduling**.
+
+Finally, I compared the different types of queues and understood how queues are used to manage data efficiently in computer systems and everyday situations. Through this learning process, I developed a better understanding of queue operations, different queue structures, and their practical applications.
